@@ -1,5 +1,10 @@
 # React-Pizza_ording
 A pizza ording website links to database using React. 
+
+Two types of users:
+managers and customers. Managers can CRUD pizzas, customers can add and delete pizza, select size and ingredients.
+
+
 ## Homepage
 ![image](https://user-images.githubusercontent.com/32544961/119001960-074a1e00-b967-11eb-986e-c4cddaa1e483.png)
 ## Manage Pizza
